@@ -1,0 +1,19 @@
+h1{
+    color: brown;
+    font-size: 2em;
+    text-align: center;
+}
+h2{
+    color: gold;
+    font-size: 1.5em;
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+#red{
+    color: red;
+}
+body {
+  background-color: green;
+}
